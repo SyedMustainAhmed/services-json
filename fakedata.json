@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Emergency",
+        "info": "City Hospitals has over a decade’s expertise in diagnosing and managing liver diseases. The medical .",
+        "img": "https://i.ibb.co/3FfSSsQ/emergency-call.png"
+    },
+    {
+        "id": 2,
+        "title": "Doctor Checkup",
+        "info": "It usually includes a health history, physical exam and tests. ",
+        "img": "https://i.ibb.co/mbkFvyx/doctor.png"
+    },
+    {
+        "id": 3,
+        "title": "Surgery",
+        "info": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition ",
+        "img": "https://i.ibb.co/99XwtSZ/robotic-surgery.png"
+    },
+    {
+        "id": 4,
+        "title": "Treatment",
+        "info": "A therapy or medical treatment is the attempted remediation of a health problem, usually following a medical diagnosis. ",
+        "img": "https://i.ibb.co/QD79FhH/diagnostic-tool.png"
+    },
+    {
+        "id": 5,
+        "title": "Vaccine",
+        "info": "Like any vaccine, COVID-19 vaccines can cause mild, short term side effects, such as a low-grade fever or pain or redness at the injection site.",
+        "img": "https://i.ibb.co/X823FRH/vaccine.png"
+    },
+    {
+        "id": 6,
+        "title": "Diagnostics",
+        "info": "MedDoctors Are A Medical And Health Department Provider Institutions. Suitable For Healthcare, Medic.",
+        "img": "https://i.ibb.co/nCPX87k/diagnosis.png"
+    }
+]
